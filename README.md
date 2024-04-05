@@ -36,7 +36,7 @@ The footer section is designed to provide additional information and contact opt
 
 
 # GIF's
-<img src="https://github.com/nishkarsh25/MyLandingPage/blob/master/Screenshots/ss2.gif" alt="Screenshot 4" width="500">
+<img src="https://github.com/nishkarsh25/MyLandingPage/blob/master/Screenshots/ss2.gif" alt="Screenshot 4" width="1000">
 
 ## Installation
 
