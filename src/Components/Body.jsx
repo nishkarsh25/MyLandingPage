@@ -17,7 +17,7 @@ const Body = () => {
           <button className='rounded-md px-4 py-3 bg-blue-400 hover:bg-blue-600 text-white'>Join Waitlist</button>
         </form>
         <div className='flex gap-2'>
-          <img src="public/assets/Checkmark.svg" alt="check" />
+          <img src="./assets/Checkmark.svg" alt="check" />
           <p className='font-lato text-gray-400'>No spam, ever. Unsubscribe anytime.</p>
         </div>
       </div>
