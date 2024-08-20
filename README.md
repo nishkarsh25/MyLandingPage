@@ -29,6 +29,10 @@ The footer section is designed to provide additional information and contact opt
 - **Social Media Links:** Links to Hosterr's social media profiles on Facebook, Instagram, and Twitter, enabling users to stay connected and engaged.
 - **Contact Option:** An option for users to talk to a specialist if they have any questions or need assistance. It includes an avatar image and a link to initiate contact.
 
+## Live Demo
+
+You can try out the live demo of the app [here](https://mylandingpage-9ruc.onrender.com).
+
 ## Screenshots
 
 <!-- Include screenshots or GIFs of your app here to give users a visual representation of what your app looks like. -->
